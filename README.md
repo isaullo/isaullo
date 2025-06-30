@@ -18,13 +18,15 @@
 
 ###
 
-<h1 align="center">hey Hello, welcome! To my world, my name is Saulo.there 👋</h1>
+<h1 align="center">Hey,hello! Welcome to my world — I'm Saulo.🖖🏾</h1>
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 my technologies 👨🏾‍💻</h3>
+<img align="right" height="100" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+</div>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=isaullo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
