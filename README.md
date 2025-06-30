@@ -26,7 +26,7 @@
 ###
 </div>
 <h3 align="left">🛠 my technologies 👨🏾‍💻</h3>
-<img align="right" height="100" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+<img align="right" height="100" src="https://img.icons8.com/?size=100&id=OaGUJyx38778&format=png&color=000000"/>
 </div>
 
 
