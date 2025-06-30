@@ -23,7 +23,7 @@
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
-
+</div>
 <h3 align="left">🛠 my technologies 👨🏾‍💻</h3>
 <img align="right" height="100" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
 </div>
